@@ -1,3 +1,4 @@
+## Instructions
 1. Set "enable" to True or False
   * This turns on and off each service lookup
 2. Set API Keys for VT and CS
@@ -5,3 +6,7 @@
 3. Replace the 2 files
   * `crits/indicators/handlers.py`
   * `crits/indicators/static/indicator_detail.html`
+
+## Screenshots
+![1](http://i.imgur.com/DAp096W.png)
+![2](http://i.imgur.com/EBaNhj1.png)
