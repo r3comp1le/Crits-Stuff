@@ -7,7 +7,7 @@
   * Used 1 VT query per Crits Indicator page load
 3. Replace the 2 files
   * `crits/indicators/handlers.py`
-  * `crits/indicators/static/indicator_detail.html`
+  * `crits/indicators/templates/indicator_detail.html`
 
 ## Screenshots
 ![1](http://i.imgur.com/DAp096W.png)
