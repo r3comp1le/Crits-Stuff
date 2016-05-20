@@ -1,2 +1,8 @@
 # Crits-Stuff
-crits ui extras
+Crits UI Extras
+
+# Indicators
+
+# Samples
+
+# Events
